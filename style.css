@@ -1,0 +1,20 @@
+main{
+	box-sizing: border-box;
+	width: 400px;
+	min-height: 300px;
+	margin: 100px auto;
+	border: 1px solid #4ea303;
+	border-radius: 8px;
+	padding-left: 20px;
+	box-shadow: 10px 10px 10px 1px gray;
+	background:  linear-gradient(90deg, #46f09b, #0c9651);
+}
+main h1{
+	margin-top: 40px;
+	margin-bottom: 50px;
+	color: #ebe53f;
+	text-shadow: 1px 1px #595945;
+}
+#buy, #input{
+	margin-left: 21px;
+}
